@@ -8,6 +8,7 @@ def get_link(link):
 
     return browser
 
+# Calculating formula for getting correct answer
 def calculation_formula(x):
     return str(math.log(abs(12*math.sin(x))))
 
